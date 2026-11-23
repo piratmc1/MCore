@@ -1,0 +1,6 @@
+name: MCore
+version: '${version}'
+
+main: com.date44.mCore.MCore
+api-version: '26.2'
+load: POSTWORLD
