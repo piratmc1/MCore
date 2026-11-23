@@ -1,6 +1,6 @@
 # MCore
 
-Core infrastructure for the PiratMC plugin ecosystem.
+Shared core infrastructure for PiratMC plugins, providing database management, common services, and reusable utilities.
 
 
 ## License
